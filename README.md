@@ -1,6 +1,6 @@
 ## School_District_Analysis
 
-### Project Overview
+### Project Overview:
 
 The purpose of this analysis is to help Maria, the chief data scientist for the city district, to analyze the information from a variety of sources. This report will help her analyse the data on student funding and standardized test data for analysis, reporting, and presentation to get insights on performance trends and patterns. These will help inform discussions and decision at the school and district level. This analysis will assist the school board and superintendent in making decision regarding the school budget and priorities. 
 
@@ -32,13 +32,13 @@ https://github.com/AnureetKaurVirdi/School_District_Analysis/blob/main/Resources
 3.	Their elimination helped in gaining a just percentage of the other student’s grades. 
 
 #### How does replacing the ninth-grade scores affect the following:
-##### Math and reading scores by grade
+##### Math and reading scores by grade:
 Replacing the data helped in refining the data for analysis. It made the analysis fair. From the city’s perspective, the uniform data provides an accurate base data to work on for the future investments. 
 
-##### Scores by school spending
+##### Scores by school spending:
 It helped by making a correct image of how the spending is being utilized throughout different schools. Now it is easier to conclude which schools need more funding, and which schools are performing great and will be okay with the same amount or less amount of funding.
 
-##### Scores by school type and school size
+##### Scores by school type and school size:
 The analysis of scores by school type and size are improved by replacing the ninth-grade scores because the academic dishonesty among the ninth graders does not portray a great image among other schools, so eliminating their grades helped them at somewhat maintaining a good status.  
 
 ### Summary: 

@@ -41,7 +41,7 @@ It helped by making a correct image of how the spending is being utilized throug
 ##### Scores by school type and school size
 The analysis of scores by school type and size are improved by replacing the ninth-grade scores because the academic dishonesty among the ninth graders does not portray a great image among other schools, so eliminating their grades helped them at somewhat maintaining a good status.  
 
-#### Summary: 
+### Summary: 
 
 Overall, replacing ninth-grade scores helped in refining the data for analysis. It helped by making a correct image of how the spending is being utilized throughout different schools. This information helps the reader get a better idea about city’s return on investment in terms of increased student performances. Eliminating the ninth grades scores helped Thomas High School at somewhat maintaining a good status.  
 

@@ -8,6 +8,11 @@ The purpose of this analysis is to help Maria, the chief data scientist for the 
 
 #### How is the district summary affected?
 
+
+![district_summary_df](/assets/Resources/district_summary_df.jpg)
+![district_summary_df_updated](/assets/Resources/district_summary_df_updated.jpg)
+
+
 1.	The updated district summary does not differ much from the results obtained from the first analysis attempt. The second attempt just makes the overall picture easier to read. 
 2.	It helps the reader gain a deeper understanding about the performance of students in the whole districts, the first analysis DataFrame was not formatted properly, which made it hard to understand the true meaning. 
 

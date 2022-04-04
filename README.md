@@ -4,8 +4,9 @@
 
 The purpose of this analysis is to help Maria, the chief data scientist for the city district, to analyze the information from a variety of sources. This report will help her analyse the data on student funding and standardized test data for analysis, reporting, and presentation to get insights on performance trends and patterns. These will help inform discussions and decision at the school and district level. This analysis will assist the school board and superintendent in making decision regarding the school budget and priorities. 
 
-2.	Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-o	How is the district summary affected?
+### Results:
+
+#### How is the district summary affected?
 
 1.	The updated district summary does not differ much from the results obtained from the first analysis attempt. The second attempt just makes the overall picture easier to read. 
 2.	It helps the reader gain a deeper understanding about the performance of students in the whole districts, the first analysis DataFrame was not formatted properly, which made it hard to understand the true meaning. 

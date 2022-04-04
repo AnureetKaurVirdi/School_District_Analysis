@@ -8,6 +8,7 @@ The purpose of this analysis is to help Maria, the chief data scientist for the 
 
 #### How is the district summary affected?
 
+https://github.com/AnureetKaurVirdi/School_District_Analysis/blob/main/Resources/district_summary_df.jpg
 ![district_summary_df](/assets/Resources/district_summary_df.jpg)
 ![district_summary_df_updated](/assets/Resources/district_summary_df_updated.jpg)
 
